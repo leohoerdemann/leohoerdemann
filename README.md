@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Leo Hoerdemann, I'm a recent computer science graduate looking for work. On my profile you'll find some of my work including with,
+
+### Tech
+- asp.net
+- react
+- astro
+- docker
+- google cloud
+- electron
+- unity
+
+### Languages
+- C#
+- C++
+- JS
+- Java
+- Python
+
+I mostly work on various games, do data science, or network programming 
